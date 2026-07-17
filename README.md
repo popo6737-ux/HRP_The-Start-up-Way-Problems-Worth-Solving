@@ -12,6 +12,7 @@ Aalto EE Helsinki Residence Program(HRP) 참가를 위한 준비 저장소입니
 readings/       원문 리딩 자료 + 한글 번역/요약
 assignments/    과제물 초안 및 제출본
 notes/          강의 노트, 개념 정리, 용어집
+projects/       강좌에 활용할 개인 프로젝트 자료 (예: foamfit/)
 ```
 
 ## 진행 방식
