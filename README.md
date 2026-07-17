@@ -1,7 +1,10 @@
 # Aalto eMBA — Entrepreneurship: The Start-up Way (Problems Worth Solving)
 
-Aalto EMBA Entrepreneurship 강좌 준비 및 학습을 돕기 위한 저장소입니다.
+Aalto EE Helsinki Residence Program(HRP) 참가를 위한 준비 저장소입니다.
+헬싱키 현지 체류 중 Module 1 "The Start-up Way: Problems Worth Solving" 강좌를 포함한 3개 모듈을 수강하며,
 과제, 읽기 자료, 번역/요약, 노트를 여기에 정리합니다.
+
+프로그램 전체 일정과 모듈별 핵심 내용은 [`notes/program-overview.md`](notes/program-overview.md) 참고.
 
 ## 폴더 구조 (제안)
 
@@ -19,6 +22,6 @@ notes/          강의 노트, 개념 정리, 용어집
 
 ## 다음 단계
 
-- [ ] 강좌 syllabus 공유
-- [ ] 첫 주차 리딩 자료 공유
-- [ ] 첫 과제 안내문 공유
+- [x] 프로그램 전체 일정 및 모듈 개요 공유
+- [ ] Module 1 syllabus / 리딩 자료 공유
+- [ ] Module 1 과제 안내문 공유
