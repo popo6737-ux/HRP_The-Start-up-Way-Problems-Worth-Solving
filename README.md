@@ -27,4 +27,7 @@ projects/       강좌에 활용할 개인 프로젝트 자료 (예: foamfit/)
 - [x] Module 1 syllabus / 리딩 자료 공유 (`notes/module1-syllabus.md`)
 - [x] Module 1 Pre-assignment 초안 작성 (`assignments/foamfit-pre-assignment.md`, `.docx`)
 - [ ] Pre-assignment 최종 검토 및 본인 표현으로 다듬기 (제출 전 필수)
-- [ ] Module 1 필수 리딩 8편 요약/번역
+- [x] Reading 5 (Jacobsohn, Failure Museum) 요약 완료
+- [x] Reading 6 (Graham, Do Things that Don't Scale) 요약 완료
+- [x] Reading 7 (Graham, Founder Mode) 요약 완료
+- [ ] Reading 1~4, 8 (Blank / Gulati / Rayport / Hill / Renko) 요약 대기
