@@ -27,7 +27,12 @@ projects/       강좌에 활용할 개인 프로젝트 자료 (예: foamfit/)
 - [x] Module 1 syllabus / 리딩 자료 공유 (`notes/module1-syllabus.md`)
 - [x] Module 1 Pre-assignment 초안 작성 (`assignments/foamfit-pre-assignment.md`, `.docx`)
 - [ ] Pre-assignment 최종 검토 및 본인 표현으로 다듬기 (제출 전 필수)
+- [x] Reading 1 (Blank, Why Lean Start-Up Changes Everything) 요약 완료
+- [x] Reading 2 (Gulati & DeSantola, Start-Ups That Last) 요약 완료
+- [x] Reading 3 (Rayport/Sola/Kupp, Overlooked Key to Scale-Up) 요약 완료
+- [x] Reading 4 (Hill/Tedards/Wild, Why Great Innovations Fail to Scale) 요약 완료
 - [x] Reading 5 (Jacobsohn, Failure Museum) 요약 완료
 - [x] Reading 6 (Graham, Do Things that Don't Scale) 요약 완료
 - [x] Reading 7 (Graham, Founder Mode) 요약 완료
-- [ ] Reading 1~4, 8 (Blank / Gulati / Rayport / Hill / Renko) 요약 대기
+- [ ] Reading 8 (Renko, Entrepreneurial Leadership) 요약 대기
+- [ ] Video 9 (Miki Kuusi, Aalto Founder Talks #3) 요약 대기

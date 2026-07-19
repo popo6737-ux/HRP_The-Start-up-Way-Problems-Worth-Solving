@@ -21,3 +21,19 @@
 | Manager Mode | 조직을 블랙박스로 나누어 위임하는 전통적 경영 방식 (Reading 7) |
 | Founder Mode | 창업자가 조직 전반에 직접 관여하는, 매니저 모드와 다른 운영 방식 (Reading 7) |
 | Skip-level Meeting | 직속 라인을 건너뛰고 CEO가 실무진과 직접 소통하는 관행 (Reading 7) |
+| Business Model Canvas | 사업계획서 대신 가설을 한 장에 정리하는 도식 (Reading 1) |
+| Customer Development | "건물 밖으로 나가" 잠재 고객에게 직접 가설을 검증하는 활동 (Reading 1) |
+| Agile Development | 반복적·점진적으로 제품을 만드는 개발 방식 (Reading 1) |
+| Iteration vs. Pivot | 작은 조정(iteration) vs 근본적 방향 전환(pivot) (Reading 1) |
+| Old Guard vs. Domain Experts | 창업 초기 제너럴리스트와 성장기에 영입되는 기능별 전문가 간의 긴장 (Reading 2) |
+| Bridging Silos | 부서 간 사일로를 없애는 대신 정보 교류가 되도록 다리를 놓는 것 (Reading 2) |
+| Freedom within a Framework | 목표·기준은 명확히 하되 실행 방식엔 자율성을 주는 계획 방식 (Reading 2) |
+| Exploration / Extrapolation / Exploitation | 탐색(PMF 탐색) → 외삽(수익성 있는 성장 탐구) → 활용(미세조정) 3단계 성장 모델 (Reading 3) |
+| Profit-Market Fit | 신규 고객 1명 추가 시 한계비용만으로 매출이 느는 구조 (Reading 3) |
+| Theory of Constraints | 가장 약한 제약(병목)부터 순차적으로 해결하는 프로세스 (Reading 3, Goldratt) |
+| Strategic Experimentation | 전사 적용 전에 소규모로 먼저 검증하는 방식 (Reading 3) |
+| Ambidextrous Organization | 기존 사업을 활용하면서 동시에 신사업을 탐색할 수 있는 조직 (Reading 3) |
+| Network / Density Effect / Viral Coefficient | 사용자가 늘수록 가치가 커지는 효과, 특정 지역 밀도 효과, 기존 사용자 1인당 신규 추천수 (Reading 3) |
+| Bridger | 파트너 간 신뢰·영향력·헌신을 만들어 혁신을 전진시키는 리더 유형 (Reading 4) |
+| Curating / Translating / Integrating | 브리저의 3대 기능 — 파트너 선정, 서로 다른 언어 간 번역, 협업 방식 통합 (Reading 4) |
+| Emotional / Contextual Intelligence | 브리저의 핵심 역량 — 공감·겸손(감성지능)과 상대 맥락 이해(맥락지능) (Reading 4) |
