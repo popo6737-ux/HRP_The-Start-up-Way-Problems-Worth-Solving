@@ -34,5 +34,5 @@ projects/       강좌에 활용할 개인 프로젝트 자료 (예: foamfit/)
 - [x] Reading 5 (Jacobsohn, Failure Museum) 요약 완료
 - [x] Reading 6 (Graham, Do Things that Don't Scale) 요약 완료
 - [x] Reading 7 (Graham, Founder Mode) 요약 완료
-- [ ] Reading 8 (Renko, Entrepreneurial Leadership) 요약 대기
+- [x] Reading 8 (Renko, Entrepreneurial Leadership) 요약 완료 — 필수 아티클 8편 전부 완료
 - [ ] Video 9 (Miki Kuusi, Aalto Founder Talks #3) 요약 대기

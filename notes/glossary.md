@@ -37,3 +37,9 @@
 | Bridger | 파트너 간 신뢰·영향력·헌신을 만들어 혁신을 전진시키는 리더 유형 (Reading 4) |
 | Curating / Translating / Integrating | 브리저의 3대 기능 — 파트너 선정, 서로 다른 언어 간 번역, 협업 방식 통합 (Reading 4) |
 | Emotional / Contextual Intelligence | 브리저의 핵심 역량 — 공감·겸손(감성지능)과 상대 맥락 이해(맥락지능) (Reading 4) |
+| Entrepreneurial Doer | 리더 자신이 직접 기회를 인식·개발하는 역할 (Reading 8) |
+| Entrepreneurial Accelerator | 팔로워가 기회 중심으로 사고·행동하도록 독려·임파워먼트하는 역할 (Reading 8) |
+| Opportunity Recognition vs. Exploitation | 기회를 지각하는 것(recognition, 인식)과 그로부터 수익을 내기 위해 행동하는 것(exploitation, 실행)의 구분 (Reading 8) |
+| Entrepreneurial Alertness | 남들이 놓치는 기회 신호에 민감하게 반응하는 성향 (Reading 8, Kirzner) |
+| Entrepreneurial Self-Efficacy | "나도 기업가적 역할을 해낼 수 있다"는 스스로에 대한 믿음 (Reading 8) |
+| ENTRELEAD Scale | Renko 외(2015)가 개발한 8문항 기업가적 리더십 측정 척도 (Reading 8) |
