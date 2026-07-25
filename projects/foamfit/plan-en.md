@@ -41,7 +41,7 @@ After a bowel movement, dry toilet paper alone often leaves users feeling insuff
 
 > ⚠️ **Honest assessment of validation level:** This survey confirms **problem awareness** — that people want a wet-wipe alternative — but it does not validate reactions to FoamFit as a **specific solution**. Price, installation experience, and actual in-use performance remain untested. See `lean-startup-analysis.md` for a fuller breakdown.
 
-See `competitive-analysis.md` for the competitive landscape — most notably **Tushé**, a touchless electric foam dispenser sold in the US, which is conceptually the closest direct competitor.
+See `competitive-analysis.md` for the competitive landscape — most notably **CWS Hygiene**, a European B2B washroom-services company that already supplies foam dispensers as part of a rental/subscription service, and **Tushé**, a touchless electric foam dispenser sold in the US for home use.
 
 ---
 
@@ -110,6 +110,7 @@ See `competitive-analysis.md` for the competitive landscape — most notably **T
 | "Does this require electrical work?" | It's purely mechanical — no power source is required at any point. |
 | "Won't users find this off-putting?" | The lock switch preserves individual choice for anyone who doesn't want it. |
 | "Isn't there already a similar product (e.g., Tushé)?" | Tushé is a touchless, battery-powered device built for home use. FoamFit is purely mechanical, so it can be deployed across hundreds of stalls in a public facility with zero battery-management burden — a design built specifically for B2B infrastructure, not the home. |
+| "Doesn't CWS in Europe already offer foam dispensers to commercial washrooms as a rental service?" | Yes — CWS is the most direct and serious competitor we've identified. However, their dispenser is sensor-driven (electric), not purely mechanical, and still requires power and maintenance. CWS has not yet entered the Korean market, which may leave more room for entry where incumbent vendor contracts are less established. (This is an untested assumption that needs field validation.) |
 
 ---
 
