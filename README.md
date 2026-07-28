@@ -41,3 +41,5 @@ projects/       강좌에 활용할 개인 프로젝트 자료 (예: foamfit/)
 - [x] FoamFit 경쟁사 분석 + 인터뷰/파일럿 가이드 (`projects/foamfit/competitive-analysis.md`)
 - [ ] 실제 시설 관리자 인터뷰 수행 (가이드 있음, 미실시)
 - [ ] 실제 파일럿 진행 (설계안 있음, 미실시)
+- [x] FoamFit × 백화점 Value Proposition Canvas 정리 (`projects/foamfit/vpc-department-store.md`)
+- [x] "Tell me about an entrepreneur!" 팀 발표 자료 (`assignments/entrepreneur-presentation-himpel/`) — HIMPEL 김정환 대표
