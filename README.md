@@ -35,7 +35,8 @@ projects/       강좌에 활용할 개인 프로젝트 자료 (예: foamfit/)
 - [x] Reading 6 (Graham, Do Things that Don't Scale) 요약 완료
 - [x] Reading 7 (Graham, Founder Mode) 요약 완료
 - [x] Reading 8 (Renko, Entrepreneurial Leadership) 요약 완료 — 필수 아티클 8편 전부 완료
-- [ ] Video 9 (Miki Kuusi, Aalto Founder Talks #3) 요약 대기
+- [ ] Video (Miki Kuusi, Aalto Founder Talks #3) 요약 대기
+- [x] Reading 9 (Katila & Leatherbee, Balanced Team) 요약 + 국/영문 1페이지 슬라이드 (`readings/09-lean-startup-balanced-team.md`, `readings/slides/`)
 - [x] FoamFit 영문 기획서 (`projects/foamfit/plan-en.md`)
 - [x] FoamFit Lean Startup 프레임워크 재구성 (`projects/foamfit/lean-startup-analysis.md`)
 - [x] FoamFit 경쟁사 분석 + 인터뷰/파일럿 가이드 (`projects/foamfit/competitive-analysis.md`)
