@@ -46,3 +46,6 @@ projects/       강좌에 활용할 개인 프로젝트 자료 (예: foamfit/)
 - [x] FoamFit × 백화점 Value Proposition Canvas 정리 (`projects/foamfit/vpc-department-store.md`)
 - [x] FoamFit Business Model Canvas 9블록 정리 (`projects/foamfit/business-model-canvas.md`)
 - [x] "Tell me about an entrepreneur!" 팀 발표 자료 (`assignments/entrepreneur-presentation-himpel/`) — HIMPEL 김정환 대표
+- [x] Final Exam Question 2 초안 (국/영문) — 엔도톡신 자동화 사례 (`assignments/final-exam-q2-draft.md`)
+- [ ] Final Exam Question 1, 3 초안 작성 대기
+- [ ] Final Exam 제출 전 본인 표현으로 다듬기 + AI 활용 인용 (제출 필수)
