@@ -43,3 +43,9 @@
 | Entrepreneurial Alertness | 남들이 놓치는 기회 신호에 민감하게 반응하는 성향 (Reading 8, Kirzner) |
 | Entrepreneurial Self-Efficacy | "나도 기업가적 역할을 해낼 수 있다"는 스스로에 대한 믿음 (Reading 8) |
 | ENTRELEAD Scale | Renko 외(2015)가 개발한 8문항 기업가적 리더십 측정 척도 (Reading 8) |
+| Causation vs. Effectuation | 목표부터 정하고 역산하는 인과적 사고 vs. 가진 수단에서 출발해 실행하며 목표를 만드는 실행적 사고 (Day 1 강의) |
+| Bird-in-hand Principle | "나는 누구인가·무엇을 아는가·누구를 아는가"에서 출발하는 원칙 (Effectuation, Day 1) |
+| Affordable Loss Principle | 기대수익이 아니라 "감당 가능한 손실"만큼만 투자하는 원칙 (Effectuation, Day 1) |
+| Problem-Solution Fit vs. Product-Market Fit | 출시 전 가치제안 검증(Problem-Solution Fit) vs. 고객이 구매로 검증한 이후 단계(PMF) — Reading 3의 Exploration과 연결 (Day 3 강의) |
+| Sean Ellis Test | "이 제품을 더 이상 못 쓰면 얼마나 실망할까요?"에 40% 이상이 "매우 실망"이라 답하면 강한 PMF 신호로 보는 정성적 테스트 (Day 3 강의) |
+| Validated Learning | 전통적 재무 지표 대신 "무엇을 배웠는가"로 진행 상황을 측정하는 방식 — Innovation Accounting과 동일 개념 (Day 3 강의, Eric Ries) |

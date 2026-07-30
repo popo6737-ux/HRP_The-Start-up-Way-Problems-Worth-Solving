@@ -37,6 +37,7 @@ projects/       강좌에 활용할 개인 프로젝트 자료 (예: foamfit/)
 - [x] Reading 8 (Renko, Entrepreneurial Leadership) 요약 완료 — 필수 아티클 8편 전부 완료
 - [ ] Video (Miki Kuusi, Aalto Founder Talks #3) 요약 대기
 - [x] Reading 9 (Katila & Leatherbee, Balanced Team) 요약 + 국/영문 1페이지 슬라이드 (`readings/09-lean-startup-balanced-team.md`, `readings/slides/`)
+- [x] Day 1~3 강의 슬라이드 기반 Lean Startup 개념 통합 정리 (`notes/lean-startup-concept-map.md`)
 - [x] FoamFit 영문 기획서 (`projects/foamfit/plan-en.md`)
 - [x] FoamFit Lean Startup 프레임워크 재구성 (`projects/foamfit/lean-startup-analysis.md`)
 - [x] FoamFit 경쟁사 분석 + 인터뷰/파일럿 가이드 (`projects/foamfit/competitive-analysis.md`)
